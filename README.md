@@ -1,4 +1,4 @@
-# 主题名称（Typora Theme Name）
+# 用于课程论文的 Typora 主题
 
 一款自己用来为课程论文排版优化的 Typora 主题。
 
