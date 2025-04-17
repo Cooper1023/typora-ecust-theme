@@ -10,11 +10,16 @@
 - 美化引用块、代码块、数学公式显示
 
 ## 📸 效果预览 Preview
-
+- latex-ecust.css的效果：
 ![image](https://github.com/user-attachments/assets/277e468f-8fb1-4bec-bb21-e13f276734d9)
 
 ![image](https://github.com/user-attachments/assets/95352ef5-f546-41f0-8a1d-5900de9b6282)
 
+- latex-ecust-chapter.css的效果：
+  
+  只改变了H2标题，改为居中，编号为“第x章”，其余一致
+  
+![image](https://github.com/user-attachments/assets/b248ea35-02a5-4199-bf71-82b1991aa176)
 
 ---
 
