@@ -11,7 +11,10 @@
 
 ## 📸 效果预览 Preview
 
-（这里插入几张主题效果截图）
+![image](https://github.com/user-attachments/assets/277e468f-8fb1-4bec-bb21-e13f276734d9)
+
+![image](https://github.com/user-attachments/assets/95352ef5-f546-41f0-8a1d-5900de9b6282)
+
 
 ---
 
