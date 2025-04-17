@@ -1,6 +1,6 @@
 # 主题名称（Typora Theme Name）
 
-一款简洁、美观，专为本科生/研究生课程论文排版优化的 Typora 主题。
+一款自己用来为课程论文排版优化的 Typora 主题。
 
 ## ✨ 特色 Features
 
